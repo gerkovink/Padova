@@ -1,7 +1,7 @@
 ---
 title: "The Dance of the Missingness Mechanisms"
 author: "Gerko Vink"
-date: "Padua - January 28, 2019"
+date: "Padova - January 28, 2019"
 output: 
  ioslides_presentation:
   toc: true
@@ -18,15 +18,13 @@ library(DT)
 ## About me
 
 - Name: Gerko Vink
-- Works as: Assistant Prof
 - Identifies as: Statistical scientist
 - Studied to be: Psychologist
 - Landed in: Statistics
 - Enjoys: Putting easter eggs in software
-- Pet peeve: 'Data Scientists' that are certain about everything
+- Pet peeve: Excessively certain Data Scientists
 - Married, with 2 kids
 - Favorite guitarist: Jimmy Page
-- Extremely easily distracted
 - Has mortgage
 
 ## Outline
@@ -39,7 +37,7 @@ In order to fully understand missing data theory, we need to focus on the follow
 
 - Study the problem's behavior (effect)
 
-- Identify if the effect yields a new problem
+- Identify if the effect is indeed a problem
 
 <div class="notes">
 In order to fully understand missing data theory, we need to focus on the problem. 
@@ -58,8 +56,10 @@ I will use
 - `ampute` in `mice` in `R`
 - my own research, preferences and opinions
 
+Most of this presentation is joint work with [Rianne Schouten](https://rianneschouten.github.io).
+
 People who contributed or whose minds have somehow been picked in parts relevant to this presentation
-Stef van Buuren, Rianne Schouten, Andrew Gelman, Jeroen Pannekoek, Shahab Jolani.
+Stef van Buuren, Andrew Gelman, Jeroen Pannekoek, Shahab Jolani, Peter Lugtig and Jaap Brand.
 
 <div class="notes">
 joke about MLARPiS
