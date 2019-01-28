@@ -344,7 +344,10 @@ To draw inference from incomplete data, we usually assume that the observed part
 - With little information (low correlation AND/OR high missingness), we heavily lean on this assumption
 - With strong information (high correlation AND/OR low missingness), this focus shifts more towards the observed part. 
 
-## For Fun
+## This presentation | has a website: 
+
 <center>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">TIL that changing random stuff until your program works is &quot;hacky&quot; and &quot;bad coding practice&quot; but if you do it fast enough it&#39;s &quot;<a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a>&quot; and pays 4x your current salary</p>&mdash; Steve Maine (@smaine) <a href="https://twitter.com/smaine/status/994723834434502658?ref_src=twsrc%5Etfw">May 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+[www.gerkovink.com/Padova/](https://www.gerkovink.com/Padova/)
 </center>
+<br><br><br>
+You can find all related materials, links and references there. 
