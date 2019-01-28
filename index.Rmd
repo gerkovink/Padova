@@ -8,7 +8,7 @@ output:
 
 # Intro {.sidebar}
 
-This dashboard covers the presentation files, references and relavant links for the lecture I gave about missingness mechanisms and their plausibility in relation to observed information. 
+This dashboard covers the presentation files, references and relevant links for the lecture I gave about missingness mechanisms and their plausibility in relation to observed information. 
 
 If you have questions, or if I can be of any help, feel free to [contact me](mailto:G.Vink@uu.nl).
 
