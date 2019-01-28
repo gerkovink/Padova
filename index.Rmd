@@ -1,0 +1,55 @@
+---
+title: "Markup Languages etc.."
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: scroll
+---
+
+# Intro {.sidebar}
+
+This dashboard covers the presentation files, references and relavant links for the lecture I gave about missingness mechanisms and their plausibility in relation to observed information. 
+
+If you have questions, or if I can be of any help, feel free to [contact me](mailto:G.Vink@uu.nl).
+
+All the best, 
+
+[Gerko Vink](http://www.gerkovink.com)
+
+---
+
+# Padova, January 29, 2019
+
+## Column 1
+
+### The presentation
+
+Please find herethe presentation and the archive with the files that generated the presentation. 
+
+- [The presentation](Vink_Padua.html)
+- [The corresponding GitHub Archive]()
+
+### Supplementary materials, references and links
+
+I refer to:
+
+- [Box 1982](https://books.google.nl/books/about/Empirical_model_building_and_response_su.html?id=QO2dDRufJEAC&redir_esc=y) 
+- [Neyman 1934](https://www.jstor.org/stable/2342192)
+- [Rubin 1987](https://books.google.nl/books?hl=en&lr=&id=bQBtw6rx_mUC&oi=fnd&pg=PR24&dq=rubin+nonresponse+in+surveys&ots=8OrNcM21eT&sig=rCBYfvQ_0lx1dm322ZNor88XZ5I#v=onepage&q=rubin%20nonresponse%20in%20surveys&f=false)
+- [Van Buuren 2018](www.stefvanbuuren.name/fimd)
+
+This presentation is based on:
+
+- [The dance of the mechanisms](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) - supplemental material inside
+- [Generating missing values for simulation purposes](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577)
+- [Towards a standardized evaluation of multiple imputation routines](https://www.gerkovink.com/docs/Standardized%20evaluation.pdf)
+
+Main software used
+
+- [mice](https://github.com/stefvanbuuren/mice) in [R](https://www.r-project.org) - [getting started with `mice`](https://www.gerkovink.com/miceVignettes/)
+- [ampute](https://www.gerkovink.com/Amputation_with_Ampute/Vignette/ampute.html) in [mice](https://github.com/stefvanbuuren/mice)
+
+### For fun
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My wife asked me what machine learning is and I said: remember when we ordered the hot plate for the boat and amazon suggested buying all the equipment needed to make a full meth lab?</p>&mdash; (((Kane Baccigalupi))) (@rubyghetto) <a href="https://twitter.com/rubyghetto/status/1058220004301127680?ref_src=twsrc%5Etfw">November 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
