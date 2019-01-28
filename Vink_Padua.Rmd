@@ -15,6 +15,14 @@ library(magrittr)
 library(DT)
 ```
 
+## This presentation | has a website: 
+
+<center>
+[www.gerkovink.com/Padova/](https://www.gerkovink.com/Padova/)
+</center>
+<br><br><br>
+You can find all related materials, links and references there. 
+
 ## About me
 
 - Name: Gerko Vink
